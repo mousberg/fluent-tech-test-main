@@ -31,4 +31,5 @@ This will run all test cases and show:
 - Different types of queries (basic metrics, filters, joins, date handling)
 
 ## Example Output
+![example](example.svg)
 ![example](example.png)
